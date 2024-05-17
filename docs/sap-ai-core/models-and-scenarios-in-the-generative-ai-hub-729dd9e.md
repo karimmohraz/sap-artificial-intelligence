@@ -359,8 +359,6 @@ Models from Azure OpenAI are accessed through a private instance of the `chat-co
 
 Open Source models are hosted by SAP AI Core and can be accessed via OpenAI compatible API schema.
 
-For more information on the Generative AI Hub in SAP AI Core, see the [SAP AI Core documentation.](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/what-is-sap-ai-core)
-
 > ### Note:  
 > The following topics are out of the scope of this document:
 > 
